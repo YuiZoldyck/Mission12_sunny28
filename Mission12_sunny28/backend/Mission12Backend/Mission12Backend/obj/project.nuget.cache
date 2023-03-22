@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zkyPVU7qHqcurkV++RAy01zSgv4q9qhvBj8H1H4Ida41tvn3yys4PBhCxSosyyIx/YYBTNCapNCQtZmT0hMaGA==",
+  "success": true,
+  "projectFilePath": "/Users/betasan/BYU/Winter 2023/IS 413/Mission12/backend/Mission12Backend/Mission12Backend/Mission12Backend.csproj",
+  "expectedPackageFiles": [
+    "/Users/betasan/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/betasan/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/betasan/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/betasan/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/betasan/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/betasan/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
